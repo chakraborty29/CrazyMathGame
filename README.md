@@ -1,5 +1,6 @@
 # CrazyMathGame
 Math Game for APCS P Class
+
 As of right now the high score doesn't work, the sound is not playing and that is driving me crazy and I'm trying to make it when the game is finished it goes back to the first ViewController
 
 **I know the design is bad ...  I am really bad with it I don't know where to even start when it comes to designing. Some of the images are from: https://learnappmaking.com/creating-a-simple-ios-game-with-swift-in-xcode/ because I was trying to make the game the person in that link was trying to make but without any help just my own knowledge and I decided not to cause I had a lot of trouble with it and kept his images because I didn't want to make new images.**
